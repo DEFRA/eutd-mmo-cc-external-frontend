@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+build
+public
+coverage
+.idea/
+*.iml
+test-results.xml
+.vscode/*
+!.vscode/launch.json
+junit.xml
+.scannerwork/
+**/*debug.log
+.env
+src/locales/uk/extracted.json
